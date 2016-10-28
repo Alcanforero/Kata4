@@ -1,7 +1,6 @@
 package kata4;
 
 import java.io.File;
-import javax.swing.text.StyledEditorKit;
 
 public class Kata4 {
 
